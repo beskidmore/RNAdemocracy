@@ -2,7 +2,7 @@
 2  # predictions from established methods                                 ###
 3  ### Author: Benjamin Skidmore                                          ###
 4  ### Date: 10/14/2017                                                   ###
-5  
+5  ### license: GNU GPL 3.0-or-later                                      ###
 6  import subprocess, os
 7  import time
 8  start_time = time.time()
